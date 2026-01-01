@@ -28,7 +28,7 @@ A Tkinter GUI tool to download Parti VODs by resolving a Parti page URL (e.g. `h
 ## Install
 
 ```bash
-git clone <your-repo-url>
+git clone parti-vod-downloader
 cd parti-vod-downloader
 python -m venv .venv
 # Windows:
