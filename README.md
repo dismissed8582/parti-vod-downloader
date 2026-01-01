@@ -1,4 +1,4 @@
-# Parti VOD Downloader
+# Parti VOD Downloader (WIP)
 
 A Tkinter GUI tool to download Parti VODs by resolving a Parti page URL (e.g. `https://parti.com/video/<id>`) into the actual HLS playlists on `media.parti.com`, then downloading segments and merging them into an MP4.
 
@@ -28,7 +28,7 @@ A Tkinter GUI tool to download Parti VODs by resolving a Parti page URL (e.g. `h
 ## Install
 
 ```bash
-git clone parti-vod-downloader
+git clone [parti-vod-downloader](https://github.com/dismissed8582/parti-vod-downloader.git)
 cd parti-vod-downloader
 python -m venv .venv
 # Windows:
