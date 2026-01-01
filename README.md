@@ -8,6 +8,7 @@ A Tkinter GUI tool to download Parti VODs by resolving a Parti page URL (e.g. `h
 - Auto-detects:
   - `main.m3u8` / `master.m3u8` (normal)
   - `index-1.m3u8` (best)
+ 
 - **Playlist Source selector**
   - Best (index-1)
   - Normal (main/master)
@@ -27,6 +28,7 @@ A Tkinter GUI tool to download Parti VODs by resolving a Parti page URL (e.g. `h
 
 ## Install
 
+
 ```bash
 git clone [parti-vod-downloader](https://github.com/dismissed8582/parti-vod-downloader.git)
 cd parti-vod-downloader
@@ -38,3 +40,9 @@ source .venv/bin/activate
 
 pip install -r requirements.txt
 python -m playwright install
+```
+After doing those steps, do those steps in the Terminal:
+
+<img width="701" height="297" alt="image" src="https://github.com/user-attachments/assets/edd59284-467e-4d6f-a0f2-0f690b48f8d4" />
+
+Probably gonna release the finished application for everyone to use.
